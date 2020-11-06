@@ -14,5 +14,5 @@ app.get("/",function(req,res){
 
 
 app.listen("4040",function(){
-    console.log("server started");
+    console.log("server started on 4040");
 });
